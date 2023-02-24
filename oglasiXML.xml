@@ -1,0 +1,56 @@
+<Oglasi>
+    <Oglas>
+        <Kategorija>Automobil</Kategorija>
+        <Datum>
+            <Dan>18</Dan>
+            <Mesec>7</Mesec>
+            <Godina>2023</Godina>
+        </Datum>
+        <Cena valuta="eur">3500</Cena>
+        <Tekst>Renault</Tekst>
+        <Tagovi>
+            <Tag>2009</Tag>
+            <Tag>Dizel</Tag>
+        </Tagovi>
+        <kontakt>
+            <email tip="privatni">ivanmurgaski@gmail.com</email>
+            <email tip="sluzbeni">ivanavt2519@gs.viser.edu.rs</email>
+        </kontakt>
+    </Oglas>
+    <Oglas>
+        <Kategorija>Automobil</Kategorija>
+        <Datum>
+            <Dan>12</Dan>
+            <Mesec>9</Mesec>
+            <Godina>2023</Godina>
+        </Datum>
+        <Cena valuta="din">200000</Cena>
+        <Tekst>Volkswagen</Tekst>
+        <Tagovi>
+            <Tag>2005</Tag>
+            <Tag>Benzin</Tag>
+        </Tagovi>
+        <kontakt>
+            <email tip="privatni">ivanmurgaski@gmail.com</email>
+            <email tip="sluzbeni">ivanavt2519@gs.viser.edu.rs</email>
+        </kontakt>
+    </Oglas>
+    <Oglas>
+        <Kategorija>Stan</Kategorija>
+        <Datum>
+            <Dan>4</Dan>
+            <Mesec>6</Mesec>
+            <Godina>2023</Godina>
+        </Datum>
+        <Cena valuta="eur">50000</Cena>
+        <Tekst>Stan u beogradu</Tekst>
+        <Tagovi>
+            <Tag>80m2</Tag>
+            <Tag>Novi Beograd</Tag>
+        </Tagovi>
+        <kontakt>
+            <email tip="privatni">ivanmurgaski@gmail.com</email>
+            <email tip="sluzbeni">ivanavt2519@gs.viser.edu.rs</email>
+        </kontakt>
+    </Oglas>
+</Oglasi>
